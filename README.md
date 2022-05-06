@@ -1,2 +1,3 @@
 # Drum-kit
-paly with drum
+Play with drums
+Created by Md Mukhtarul Hussain
